@@ -1,3 +1,5 @@
-# Robotic-Manipulator
+# Robotic-Manipulator-Project
 
-STEP BY STEP IMPLEMENTATION OF INVERSE KINMEATICS ON A 6 DOF ROBOTIC MANIPULATOR
+A Control Architecture for a 6 DOF Robotic Manipulator.
+
+
